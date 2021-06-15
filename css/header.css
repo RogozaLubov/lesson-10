@@ -1,0 +1,8 @@
+.container{
+    background-color: #5C6F4E;
+    display: flex;
+}
+.h1{
+    font-size: 3.6em;
+    line-height: 1.16;
+}
